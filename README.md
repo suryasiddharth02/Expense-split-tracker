@@ -40,3 +40,4 @@ Validations
 
 4. Loom Video Demonstration
 Watch the full walkthrough of the Expense Split Tracker in action:
+https://www.loom.com/share/cbd0838511494449ab171e5a307a7299?sid=13d2df42-28ba-4d53-9d1c-1be0ccd02871
