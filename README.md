@@ -10,7 +10,7 @@ The project is implemented in pure Python using in-memory data structures like d
 
 2. Setup Instructions
 Prerequisites
-• 	Python 3.8 or higher
+• 	Python 3.9 or higher
 • 	A code editor or terminal to run  files
 How to Run the Project
 1. 	Clone or download the project folder
