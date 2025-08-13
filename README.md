@@ -13,7 +13,7 @@ Managing shared expenses in group settings—like trips or events—can quickly 
 Approach:
 The project is implemented in pure Python using in-memory data structures like dictionaries and lists. It emphasizes clarity, modularity, and testability. All functionality is demonstrated through test cases in a single script—no external libraries or tools required.
 
-3. Setup Instructions
+2. Setup Instructions
 Prerequisites:
 
 • 	Python 3.9 or higher
@@ -36,7 +36,7 @@ The script includes sample scenarios for:
 
 • 	Debt simplification
 
-3. Explanations of Complex Logic
+4. Explanations of Complex Logic
 Expense Splitting
 
 • 	Equal Split: Divides the total expense evenly among all members.
